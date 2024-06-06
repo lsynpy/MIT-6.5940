@@ -1,0 +1,32 @@
+{
+  "cSpell.words": [
+    "arange",
+    "bitwidth",
+    "codebook",
+    "Codebook",
+    "codebooks",
+    "convs",
+    "edgecolor",
+    "Finetuning",
+    "importances",
+    "kmeans",
+    "kthvalue",
+    "nonzeros",
+    "numel",
+    "qmax",
+    "qmin",
+    "Quantizer",
+    "quantizers",
+    "subtensor",
+    "suptitle",
+    "torchprofile",
+    "vmax",
+    "vmin",
+    "xlabel",
+    "xticklabels",
+    "xticks",
+    "ylabel",
+    "ylim",
+    "yticklabels"
+  ]
+}
